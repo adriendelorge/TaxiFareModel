@@ -1,0 +1,15 @@
+artifact_uri: file:///home/adelorge/code/adriendelorge/TaxiFareModel/mlruns/1/66c506c2098742f4973eedcd4c9fc9b4/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: 66c506c2098742f4973eedcd4c9fc9b4
+run_uuid: 66c506c2098742f4973eedcd4c9fc9b4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1653980135950
+status: 1
+tags: []
+user_id: unknown

@@ -5,9 +5,9 @@ twine
 wheel>=0.29
 
 # data science
-numpy
+numpy==1.18.5
 pandas
-scikit-learn
+scikit-learn==0.22
 
 # tests/linter
 black
@@ -23,7 +23,9 @@ mlflow
 s3fs
 
 # utilities
-six>=1.14
+six==1.15.0
 joblib
 memoized-property
 termcolor
+
+python-gitlab
